@@ -1,7 +1,7 @@
 ## Overview of Election Audit: Explain the purpose of this election audit analysis.
 The overview of the election audit was to determine the total votes, county votes, largest county turnout, candidate votes/percentages, and the candidate winner.
 
-#Election-Audit Results: Using a bulleted list, address the following election outcomes. Use images or examples of your code as support where necessary.
+##Election Outcomes Analysis
 - ![image](https://user-images.githubusercontent.com/107594143/178264912-16197c6b-4910-45b6-8c6e-8d070a6286f2.png)
   These lines of code help create a 'unique' function similar to that in vba. The county_options/candidate_options create a separate 'bucket' and appending the existing county_names/candidate_names to the 'bucket' helps find unique values. The for loop skips the first header line and reads row[1] and row[2], respectively. 
 - ![image](https://user-images.githubusercontent.com/107594143/178265972-e49affba-6b5f-4c87-8525-4bf689baad52.png)
