@@ -28,7 +28,6 @@ According to the analysis, there were 369,711 votes casted.
     - Raymon Anthony Doane: 3.1% (11,606)
 #Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
   - The winning candidate was Diana DeGette wtih 272,892 votes and a winning percentage of 73.8%
-#Election-Audit Summary: In a summary statement, provide a business proposal to the election commission on how this script can be used—with some modifications—for any election. Give at least two examples of how this script can be modified to be used for other elections.
-  - This script can be used to determine with accuracy and efficiency the total votes casted, percentages of votes, candidate winners, and voter turnouts per area.
-  - This script cane be modified in two ways:
-    -    
+#Election-Audit Summary
+  - This script can be used to determine with accuracy and efficiency the total votes casted, percentages of votes, candidate winners, and voter turnouts per area. This script can be modified in two ways. The first way is to isolate for each county and find out the breakdown of votes per candidate. Lastly, the code can be modified to isolate for each candidate and find out the breakdown of votes for each county.
+    
