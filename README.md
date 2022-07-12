@@ -17,10 +17,11 @@ The overview of the election audit was to determine the total votes, county vote
 According to the analysis, there were 369,711 votes casted.
 
 #Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-  -County Votes:
-    -Jefferson: 10.5% (38,855)
-    -Denver: 82.8% (306,055)
-    -Arapahoe: 6.7% (24,801)
+
+-County Votes:
+  -Jefferson: 10.5% (38,855)
+  -Denver: 82.8% (306,055)
+  -Arapahoe: 6.7% (24,801)
     
 #Which county had the largest number of votes?
   - Largest county with most votes is Denver.
