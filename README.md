@@ -21,9 +21,10 @@ According to the analysis, there were 369,711 votes casted.
     -Jefferson: 10.5% (38,855)
     -Denver: 82.8% (306,055)
     -Arapahoe: 6.7% (24,801)
+    
 #Which county had the largest number of votes?
   - Largest county with most votes is Denver.
-  -
+  
 #Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
   - Candidate total votes and percentages:
     - Charles Casper Stockham: 23.0% (85,213)
